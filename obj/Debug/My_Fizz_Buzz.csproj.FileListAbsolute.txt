@@ -1,0 +1,6 @@
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\bin\Debug\My_Fizz_Buzz.exe.config
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\bin\Debug\My_Fizz_Buzz.exe
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\bin\Debug\My_Fizz_Buzz.pdb
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\obj\Debug\My_Fizz_Buzz.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\obj\Debug\My_Fizz_Buzz.exe
+C:\Users\AcademyPgh\PaulsProjects\Csharp\My_Fizz_Buzz\obj\Debug\My_Fizz_Buzz.pdb
